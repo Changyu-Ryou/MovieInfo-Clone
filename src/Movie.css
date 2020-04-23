@@ -1,0 +1,9 @@
+.movie__data p {
+    
+    box-sizing: border-box;
+    /* line-height: 40px; */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+}
